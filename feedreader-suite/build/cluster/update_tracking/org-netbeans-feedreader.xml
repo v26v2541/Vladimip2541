@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.feedreader">
+    <module_version install_time="1422988046136" last="true" origin="installer" specification_version="1.0">
+        <file crc="30125745" name="config/Modules/org-netbeans-feedreader.xml"/>
+        <file crc="1792914303" name="modules/org-netbeans-feedreader.jar"/>
+    </module_version>
+</module>

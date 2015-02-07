@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+>Log Session: Tuesday, February 3, 2015 8:27:27 PM EET
+>System Info: 
+  Product Version         = NetBeans Platform 8.0.2 (Build 201411181905)
+  Operating System        = Linux version 3.2.0-23-generic running on i386
+  Java; VM; Vendor        = 1.8.0_31; Java HotSpot(TM) Server VM 25.31-b07; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_31-b13
+  Java Home               = /home/developer/jdk1.8.0_31/jre
+  System Locale; Encoding = ru_UA (feedreader); UTF-8
+  Home Directory          = /home/developer
+  Current Directory       = /home/developer/server/Symfony/feedreader-suite/FeedReader
+  User Directory          = /home/developer/server/Symfony/feedreader-suite/build/testuserdir
+  Cache Directory         = /home/developer/server/Symfony/feedreader-suite/build/testuserdir/var/cache
+  Installation            = /home/developer/server/Symfony/feedreader-suite/build/cluster
+                            /home/developer/netbeans-8.0.2/platform
+                            /home/developer/netbeans-8.0.2/platform
+  Boot & Ext. Classpath   = /home/developer/jdk1.8.0_31/jre/lib/resources.jar:/home/developer/jdk1.8.0_31/jre/lib/rt.jar:/home/developer/jdk1.8.0_31/jre/lib/sunrsasign.jar:/home/developer/jdk1.8.0_31/jre/lib/jsse.jar:/home/developer/jdk1.8.0_31/jre/lib/jce.jar:/home/developer/jdk1.8.0_31/jre/lib/charsets.jar:/home/developer/jdk1.8.0_31/jre/lib/jfr.jar:/home/developer/jdk1.8.0_31/jre/classes:/home/developer/jdk1.8.0_31/jre/lib/ext/sunpkcs11.jar:/home/developer/jdk1.8.0_31/jre/lib/ext/nashorn.jar:/home/developer/jdk1.8.0_31/jre/lib/ext/zipfs.jar:/home/developer/jdk1.8.0_31/jre/lib/ext/jfxrt.jar:/home/developer/jdk1.8.0_31/jre/lib/ext/dnsns.jar:/home/developer/jdk1.8.0_31/jre/lib/ext/sunec.jar:/home/developer/jdk1.8.0_31/jre/lib/ext/cldrdata.jar:/home/developer/jdk1.8.0_31/jre/lib/ext/localedata.jar:/home/developer/jdk1.8.0_31/jre/lib/ext/sunjce_provider.jar
+  Application Classpath   = /home/developer/netbeans-8.0.2/platform/lib/boot.jar:/home/developer/netbeans-8.0.2/platform/lib/org-openide-modules.jar:/home/developer/netbeans-8.0.2/platform/lib/org-openide-util-lookup.jar:/home/developer/netbeans-8.0.2/platform/lib/org-openide-util.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/boot_ja.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/boot_pt_BR.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/boot_ru.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/boot_zh_CN.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-modules_ja.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-modules_ru.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-util_ja.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-util_pt_BR.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-util_ru.jar:/home/developer/netbeans-8.0.2/platform/lib/locale/org-openide-util_zh_CN.jar:/home/developer/jdk1.8.0_31/lib/dt.jar:/home/developer/jdk1.8.0_31/lib/tools.jar
+  Startup Classpath       = /home/developer/netbeans-8.0.2/platform/core/org-openide-filesystems.jar:/home/developer/netbeans-8.0.2/platform/core/core.jar:/home/developer/netbeans-8.0.2/platform/core/locale/org-openide-filesystems_ja.jar:/home/developer/netbeans-8.0.2/platform/core/locale/core_ru.jar:/home/developer/netbeans-8.0.2/platform/core/locale/org-openide-filesystems_ru.jar:/home/developer/netbeans-8.0.2/platform/core/locale/core_pt_BR.jar:/home/developer/netbeans-8.0.2/platform/core/locale/org-openide-filesystems_zh_CN.jar:/home/developer/netbeans-8.0.2/platform/core/locale/core_zh_CN.jar:/home/developer/netbeans-8.0.2/platform/core/locale/org-openide-filesystems_pt_BR.jar:/home/developer/netbeans-8.0.2/platform/core/locale/core_ja.jar
+-------------------------------------------------------------------------------
+Внимание! При установке некоторых модулей произошел сбой:
+	org.netbeans.html.nbrwsr - Не найден необходимый модуль net.java.html.boot.fx.
+	org.netbeans.html.nbrwsr - Не найден необходимый модуль net.java.html.boot.
